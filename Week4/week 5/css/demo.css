@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+*{
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+
+}
+body{
+    background-image: url("/file:///C:/Web%20Technologies/Week4/week%205/css/image22.jpg.jpg");
+    background: linear-gradient(to right,red,orange,yellow);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+/* 
+#box1{
+    border-style: dotted;
+    width: 250px;
+    height: 250px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0px;
+}
+#box2{
+    border-style: dotted;
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+#box3{
+    border-style: double;
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+
+}
+#box4{
+    border-style: dotted;
+    width: 250px;
+    height: 250px;
+    background-color: azure;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+} */
